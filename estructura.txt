@@ -1,0 +1,7 @@
+/controllers
+    userController.js
+/middlewares
+    authenticateToken.js
+/models
+    userModel.js
+index.js
